@@ -1,0 +1,31 @@
+{
+  "name": "saamaan-waala-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishpundalik/saamaan-wala-backend.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "NodeJS",
+    "Express",
+    "Postgresql",
+    "PostGraphile"
+  ],
+  "author": "Aashish Pundalik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishpundalik/saamaan-wala-backend/issues"
+  },
+  "homepage": "https://github.com/ashishpundalik/saamaan-wala-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "postgraphile": "^4.5.5"
+  }
+}
